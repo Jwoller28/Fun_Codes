@@ -1,8 +1,5 @@
 from random import randint
 import os
-import tkinter 
-from tkinter import messagebox
-
 
 #Ship Class
 class Ship:
